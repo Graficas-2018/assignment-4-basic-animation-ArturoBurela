@@ -170,7 +170,7 @@ function playAnimations() {
                   values:[
                           { x : 0, y : 0 },
                           { x : 0, y : -3.2 },
-                          { x : 0, y : -6.4 },
+                          { x : 0, y : -6.4 }
                           ],
                   target:car.rotation
               },
